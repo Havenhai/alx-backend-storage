@@ -1,1 +1,3 @@
-# Solutions to tasks on 0x01. NoSQL
+Alx Project
+
+0x01. NoSQL
